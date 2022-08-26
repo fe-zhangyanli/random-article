@@ -1,0 +1,26 @@
+{
+  "name": "random-article",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fe-zhangyanli/random-article.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fe-zhangyanli/random-article/issues"
+  },
+  "homepage": "https://github.com/fe-zhangyanli/random-article#readme",
+  "type": "module",
+  "dependencies": {
+    "command-line-args": "^5.2.1",
+    "command-line-usage": "^6.1.3",
+    "moment": "^2.29.4"
+  }
+}
